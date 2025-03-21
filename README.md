@@ -52,7 +52,6 @@ npm start
 Acesse: http://localhost:3000
 
 ## Melhorias Futuras
-
 - Implementar remoção de tarefas.
 - Adicionar autenticação de usuário.
 - Utilizar Context API para gerenciamento global de estados.
